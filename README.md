@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
