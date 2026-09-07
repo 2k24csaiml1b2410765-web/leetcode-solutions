@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
