@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0704-binary-search) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
