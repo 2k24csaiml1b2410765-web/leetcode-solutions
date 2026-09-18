@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
