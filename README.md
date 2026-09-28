@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
