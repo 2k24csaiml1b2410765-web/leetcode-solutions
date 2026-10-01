@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0268-missing-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
