@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Interactive
 |  |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
