@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0268-missing-number) |
+| [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Interactive
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
