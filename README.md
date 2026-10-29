@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
