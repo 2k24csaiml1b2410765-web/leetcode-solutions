@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
