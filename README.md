@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
