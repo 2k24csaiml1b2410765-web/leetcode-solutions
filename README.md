@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0268-missing-number) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
