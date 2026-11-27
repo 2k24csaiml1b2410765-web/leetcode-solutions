@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0575-distribute-candies](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/2k24csaiml1b2410765-web/leetcode-solutions/tree/master/0575-distribute-candies) |
 ## Sorting
 |  |
 | ------- |
